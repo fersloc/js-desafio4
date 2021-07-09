@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,IAAI;CAAG;;AAC7B,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,IAAI;CAAG;;AAClB,AAAA,CAAC,CAAC;EACE,UAAU,EAAE,UAAU;CAAG",
+    "sources": [
+        "../Varios/Cursos_Youtube-master/Gulp/src/sass/main.sass"
+    ],
+    "names": [],
+    "file": "main.css"
+}

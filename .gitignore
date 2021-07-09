@@ -1,0 +1,6 @@
+#ignorando esto:
+/node_modules
+package.json
+package-lock.json
+/sass
+.vscode
